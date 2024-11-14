@@ -21,4 +21,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "ATProtocol-Api-Kotlin"
 include(":app")
- 
+include(":at-api-client")
